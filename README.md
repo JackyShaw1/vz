@@ -64,20 +64,4 @@ Eclipse or IntelliJ IDEA中启动, 找到```com.zzg.mybatis.generator.MainUI```�
 * [Usage](https://github.com/astarring/mybatis-generator-gui/wiki/Usage-Guide)
 
 
-### 贡献
-目前本工具只是本人项目人使用到了并且觉得非常有用所以把它开源，如果你觉得有用并且想改进本软件，你可以：
-* 对于你认为有用的功能，你可以在Issue提，我可以开发的尽量满足
-* 对于有Bug的地方，请按如下方式在Issue中提bug
-    * 如何重现你的bug，包括你使用的系统，JDK版本，数据库类型及版本
-    * 如果有任何的错误截图会更好
-    * 如果你是一些常见的数据库连接、软件启动不了等问题，请先仔细阅读上面的文档，再解决不了在下面的QQ群中问（问问题的时候尽量把各种信息都提供好，否则只是几行文字是没有人愿意为你解答的）。
-    
-### QQ群
-鉴于有的同学可能有一些特殊情况不能使用，我建了一个QQ群供大家交流，QQ群号：613911142（已满），608454894
 
-### 赞助
-本工具纯属个人业余时间开发与维护，如果你觉得软件对你有用，欢迎赞助，金额随意 :)
-- - -
-Licensed under the Apache 2.0 License
-
-Copyright 2017 by Owen Zou
